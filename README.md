@@ -1,4 +1,4 @@
-# google-cloud-gcp
+# Spring boot with gcp
 
 This is the example of google cloud gcp.
 
